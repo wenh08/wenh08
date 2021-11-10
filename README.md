@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wenh08
-- 👀 I’m interested in learning how to build apps, becoming a front and back end developer, eventually a fullstack developer.  
-- 🌱 I’m currently learning ...html, css, javascript
-- 💞️ I’m looking to collaborate on ...any projects that will be good to add onto my resume once ive finished learning the fundemantal's of html,css, and javascript.  
+- 👀 I’m interested in building and testing native apps, I am a IOS developer & tester and i am always learning new methods to improve my code. 
+- 🌱 I’m currently using XCTest & XCUITest frameworks to for IOS QA.  
+- 💞️ I’m looking to collaborate on ...any projects that will be good to add onto my resume.
 - 📫 How to reach me ...email me anytime at wenwuhoward@gmail.com
 
 <!---
